@@ -33,5 +33,7 @@ Manage your work, home, personal tasks with notes app. Add ability to add, edit,
 
 ```bash
 # In the project directory run:
+npm install react-scripts@latest 
+
 npm i && npm start
 ```
