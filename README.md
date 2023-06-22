@@ -1,4 +1,4 @@
-# React_Note_App
+# React_Note_App..
 Manage your work, home, personal tasks with notes app. Add ability to add, edit, delete, and mark them as completed. Additional features include searching, filtering and visualizing completion progress.
 
 ## Technologies & Tools
